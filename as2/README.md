@@ -2,7 +2,7 @@
 
 Implementation of the Canny edge detector for the task of organ contour detection from computed tomography (CT) images.
 
-![Input images and detected contours (after edge linking)](/figs/examples.png)
+![Input images and detected contours (after edge linking)](figs/examples.png)
 
 
 ## Usage
