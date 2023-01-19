@@ -1,4 +1,4 @@
-Biomedical signals analysis course assignments at University of Ljubljana, FRI.
+## Biomedical signals analysis course assignments at University of Ljubljana, FRI.
 
 1. [**Heartbeat detection in ECG records**](as1)
 <img src="as1/figs/wander.png" width=500>
